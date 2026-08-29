@@ -1,0 +1,6 @@
+{
+  "name": "CodeLegacy2Spec (CL2S)",
+  "description": "Nền tảng AI tái cấu trúc mã nguồn cũ thành tài liệu SRS đặc tả hệ thống có truy vết và sơ đồ trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
